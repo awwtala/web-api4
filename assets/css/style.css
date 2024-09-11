@@ -1,0 +1,12 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: rgba(117, 157, 109, 0.157);
+}
+
+.dark-mode {
+  background-color: #333; /* Dark mode background color */
+  color: #f1ecec; /* Dark mode text color */
+}

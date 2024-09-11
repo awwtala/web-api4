@@ -1,0 +1,21 @@
+.header {
+  border-bottom: 10px double black;
+  margin: 2px;
+}
+
+.blogtitle {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 5px;
+}
+
+.blogtitle1 {
+  border-bottom: 1px solid black;
+
+}
+
+.footer {
+  border-top: 10px double black;
+  margin: 2px;
+  text-align: center;
+}

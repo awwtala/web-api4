@@ -1,0 +1,30 @@
+.header {
+  border: 5px solid black;
+  margin: 10px;
+}
+
+.h1 {
+  margin: 20px;
+  padding: 20px;
+  border: 4px solid black;
+  width: 500px; /* Set the width and height to create a circle */
+  height: 500px;
+  background-color: #c7dbe3; /* Set the background color */
+  color: rgb(14, 14, 14); /* Set the text color */
+  text-align: center; /* Center the text horizontally */
+  line-height: 400px; /* Center the text vertically */
+  border-radius: 50%; /* Create a circular shape */
+}
+
+.main {
+  border: 5px solid black;
+  padding: 20px;
+  margin: 15px;
+  width: 50%;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+
+}
