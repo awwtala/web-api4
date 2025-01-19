@@ -17,3 +17,33 @@ blog.js we created a function for a back button, retrieved blog data from local 
 forms.js a submit button was made, a function to capture the users input from the form to the web page, created a blog form object, retrieving existing Blog Data from Local Storage by using a json, an array, added a new blog post to the array, updated local storage, and cleared the input files.
 
 logic.js contains the mode switching for the dark/light button, and an event listener for changes that can occur.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Questions](#questions)
+- [Tests](#tests)
+- [Contributing](#contributing)
+
+## Installation
+
+Create a repository using GitHub.\
+Clone SSH into computer. \
+
+## Usage
+
+Copy https://github.com/awwtala/web-api4 into your web.
+
+## Questions
+
+Tala Awwad: awwad.tala1@yahoo.com
+
+## Tests
+
+No automated tests were conducted for this project.
+
+## Contributing
+
+Xpert learning assistant.
+Teacher assistant: Zac Warner.
